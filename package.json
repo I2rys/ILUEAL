@@ -1,0 +1,24 @@
+{
+    "name": "ilueal",
+    "version": "1.0.0",
+    "description": "A simple IP logger using express & localtunnel.",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "start:dev": "nodemon index.js"
+    },
+    "keywords": [
+      "i2rys",
+      "ip-logger",
+      "nodejs-iplogger",
+      "ilueal",
+      "localtunnel-iplogger"
+    ],
+    "repository": "https://github.com/I2rys/ILUEAL",
+    "author": {
+      "name": "I2rys",
+      "email": "i2rys@protonmail.com",
+      "website": "https://i2rys.xyz"
+    },
+    "license": "MIT"
+  }
